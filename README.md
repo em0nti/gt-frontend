@@ -1,29 +1,43 @@
 ![GooseTrack logo](assets/logo.png)
+# ProjectName: Frontend Repository for the GooseTrack
 
-# GooseTrack
+## Overview
+This repository contains the fork frontend codebase for GooseTrack, a web application designed to to store all your tasks. this is a study project in GoIT school. This project is part of a larger team effort, and this specific repository focuses on frontend development. As a contributing developer, I've worked on various components and features to make the application user-friendly, efficient, and scalable.
+
+## Technologies Used
+HTML/CSS: For structuring and styling the web pages.
+JavaScript (ES6): For client-side scripting.
+React: As the primary library for building the user interface.
+Redux: For state management across the application.
+React Router: For client-side routing and navigation.
+Redux Toolkit: Simplifies Redux logic and state management.
+Mantine: A React UI framework used for component styling and theming.
+Features
+
+## About web app - GooseTrack
 
 Want to store all your tasks in one place? Then **GooseTrack** is right for you!
 This application provides you with easy to use task management system, to organize your life and work, all in one place!
 
-## Calendar view
+### Calendar view
 
 GooseTrack's Calendar view provides a comprehensive overview of your schedule, displaying all your tasks, events, and appointments in a visually appealing and intuitive layout.
 
 ![Calendar View](assets/calendar.png)
 
-## Sidebar
+### Sidebar
 
 GooseTrack offers easy access to your account settings, calendar, and filters. The 'My Account' section allows you to manage your profile information and preferences, while the calendar provides a quick and convenient way to view your upcoming events and tasks.
 
 ![Sidebar](assets/sidebar.png)
 
-## All in one
+### All in one
 
 GooseTrack is an all-in-one productivity tool that helps you stay on top of your tasks, events, and deadlines. Say goodbye to scattered to-do lists and hello to streamlined productivity with GooseTrack.
 
 ![All in one](assets/all-in-one.png)
 
-## Team Starship 🚀
+### Team Starship 🚀
 
 <ul>
   <li style="margin-bottom:6px;"><strong>Front-end Team Lead</strong> - <a href="https://github.com/SalOne22"><img src="https://avatars.githubusercontent.com/u/111443297?s=32&v=4" alt="Profile Image" style="width:32px;height:32px;vertical-align:middle;border-radius:50%;"> Vladyslav Vladinov</a></li>
