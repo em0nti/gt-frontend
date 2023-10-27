@@ -1,6 +1,8 @@
 ![GooseTrack logo](assets/logo.png)
 # ProjectName: Frontend Repository for the GooseTrack
 
+## Backend Repository for the GooseTrack project can be found [here](https://github.com/em0nti/gt-backend)
+
 ## Overview
 This repository contains the fork frontend codebase for GooseTrack, a web application designed to to store all your tasks. this is a study project in GoIT school. This project is part of a larger team effort, and this specific repository focuses on frontend development. As a contributing developer, I've worked on various components and features to make the application user-friendly, efficient, and scalable.
 
